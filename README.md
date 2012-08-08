@@ -1,6 +1,8 @@
 Extendable Revealing Module
 ===========
 
+## This was a fun experiment, but I don't recommend using it. It introduces funny problems with scope. 
+
 JavaScript's popular Revealing Module pattern has this disadvantage that it is impossible to extend any behaviour related to the private parts [this joke is never getting old]. 
 
 This little bit of code has been devised to do just that. 
